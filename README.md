@@ -1,4 +1,4 @@
-<img src="https://github.com/abhinavthapa1998/abhinavthapa1998/blob/main/banner.png" alt="banner" width="100%" />
+<img src="https://github.com/abhinavthapa1998/abhinavthapa1998/blob/main/banner (1).png" alt="banner" />
 
 <p align="left"> <a href="https://twitter.com/abhinav_w3b" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_w3b?logo=twitter&style=for-the-badge" alt="abhinav_w3b" /></a> </p>
 
