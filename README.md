@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/abhinav_w3b" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_w3b?logo=twitter&style=for-the-badge" alt="abhinav_w3b" /></a> </p>
 <img align="center" width="30%" src="https://github.com/abhinavthapa1998/abhinavthapa1998/blob/main/work.gif" alt="work" />
 <h3>About Me:</h3>
-👨‍🎓B.Tech - Electronics and Communication Engineering - Vellore Institute of Technology, Vellore. 2021 <br>
+👨‍🎓B.Tech - Electronics and Communication Engineering(2017-2021) - Vellore Institute of Technology, Vellore<br>
 🔭I’m currently working on 2 full stack projects/personal portfolio.
 
 <h3 align="left">Connect:</h3>
